@@ -1020,37 +1020,37 @@
   },
   {
     "name": "elmchat",
+    "description": "A websocket-based chat application with Elm, Phoenix, Elixir, and JavaScript.",
+    "primaryUrl": "https://github.com/Diamond/livechat-elm",
     "previewImageUrl": "data/images/elmchat.jpg",
-    "primaryUrl": "http://elmchat.xasm.net",
-    "repositoryUrl": "https://github.com/Diamond/livechat-elm",
-    "description": "Websocket-based chat application with Elm, Phoenix, Elixir, and Javascript"
+    "repositoryUrl": "https://github.com/Diamond/livechat-elm"
   },
   {
-    "name": "Mantl UI",
+    "name": "Mantl UI frontend",
+    "description": "A user interface for Mantl's health checking and services.",
+    "primaryUrl": "https://github.com/mantl/mantl-ui-frontend",
     "previewImageUrl": "data/images/mantl-ui.png",
-    "primaryUrl": "https://mantl.io",
-    "repositoryUrl": "https://github.com/CiscoCloud/mantl-ui-frontend",
-    "description": "A quick view into Mantl's health checking and services"
+    "repositoryUrl": "https://github.com/mantl/mantl-ui-frontend"
   },
   {
     "name": "elm-hedley",
-    "previewImageUrl": "data/images/elm-hedley.jpg",
+    "description": "An Elm web app with a headless Drupal backend.",
     "primaryUrl": "https://gizra.github.io/elm-hedley",
-    "repositoryUrl": "https://github.com/Gizra/elm-hedley",
-    "description": "Elm web app with Headless Drupal backend"
+    "previewImageUrl": "data/images/elm-hedley.png",
+    "repositoryUrl": "https://github.com/Gizra/elm-hedley"
   },
   {
     "name": "elm-lang.org",
+    "description": "The official Elm website.",
+    "primaryUrl": "https://elm-lang.org/",
     "previewImageUrl": "data/images/elm-lang.org.png",
-    "primaryUrl": "http://elm-lang.org",
-    "repositoryUrl": "https://github.com/elm-lang/elm-lang.org",
-    "description": "Official Elm website, built using Elm"
+    "repositoryUrl": "https://github.com/elm/elm-lang.org"
   },
   {
-    "name": "package.elm-lang.org",
+    "name": "Elm Packages",
+    "description": "The package website hosts hundreds of open source projects. All are created by the Elm community to share useful bits of code with everyone else.",
+    "primaryUrl": "https://package.elm-lang.org/",
     "previewImageUrl": "data/images/package.elm-lang.org.png",
-    "primaryUrl": "http://package.elm-lang.org/",
-    "repositoryUrl": "https://github.com/elm-lang/package.elm-lang.org",
-    "description": "Website for browsing Elm packages and exploring documentation"
+    "repositoryUrl": "https://github.com/elm/package.elm-lang.org"
   }
 ]
