@@ -985,38 +985,38 @@
   },
   {
     "name": "Massive Decks",
+    "description": "A comedy party game based on Cards against Humanity. Play with friends! The web client is written in Elm, while the back-end is written in TypeScript.",
+    "primaryUrl": "http://md.rereadgames.com/",
     "previewImageUrl": "data/images/massive-decks.png",
-    "primaryUrl": "http://massivedecks.herokuapp.com/",
-    "repositoryUrl": "https://github.com/Lattyware/massivedecks",
-    "description": "A Cards Against Humanity clone written in Elm and Scala."
+    "repositoryUrl": "https://github.com/Lattyware/massivedecks"
   },
   {
-    "name": "elm-flatris",
-    "previewImageUrl": "data/images/elm-flatris.png",
+    "name": "Elm Flatris",
+    "description": "An Elm clone of Flatris, a Tetris game.",
     "primaryUrl": "https://unsoundscapes.itch.io/flatris",
-    "repositoryUrl": "https://github.com/w0rm/elm-flatris",
-    "description": "Tetris game, a clone of Flatris with Elm."
+    "previewImageUrl": "data/images/elm-flatris.png",
+    "repositoryUrl": "https://github.com/w0rm/elm-flatris"
   },
   {
     "name": "Sliding Puzzle",
+    "description": "A sliding puzzle game that is configurable via URL.",
+    "primaryUrl": "https://moroshko.github.io/sliding-puzzle/?width=4&height=4&start=P,L,A,Y,T,H,I,S,G,A,M,E,N,W,O,&goal=P,L,A,Y,T,H,I,S,G,A,M,E,N,O,W,&shuffle=0",
     "previewImageUrl": "data/images/sliding-puzzle.jpg",
-    "primaryUrl": "http://bit.ly/playthisgamenow",
-    "repositoryUrl": "https://github.com/moroshko/sliding-puzzle",
-    "description": "Sliding puzzle game, configurable via URL."
+    "repositoryUrl": "https://github.com/moroshko/sliding-puzzle"
   },
   {
     "name": "MMP Halloween Text Adventure",
+    "description": "A text-adventure game based on Midnight Murder Party where the challenge was to use Elm for everything (and to implement a Native module if otherwise impossible). Played with Task-based Native modules for audio and DOM scrolling.",
+    "primaryUrl": "https://github.com/robwhitaker/mmp-halloween2015",
     "previewImageUrl": "data/images/mmp-halloween-text-adventure.png",
-    "primaryUrl": "http://midnightmurderparty.com/interactive/HalloweenSpecial2015",
-    "repositoryUrl": "https://github.com/robwhitaker/MMPHalloween2015",
-    "description": "A text-adventure game based on Midnight Murder Party where the challenge was to use Elm for everything (and to implement a Native module if otherwise impossible). Played with Task-based Native modules for audio and DOM scrolling."
+    "repositoryUrl": "https://github.com/robwhitaker/mmp-halloween2015"
   },
   {
-    "name": "html-to-elm",
+    "name": "HTML to Elm",
+    "description": "An online tool for converting HTML to elm-lang/html.",
+    "primaryUrl": "https://mbylstra.github.io/html-to-elm/",
     "previewImageUrl": "data/images/html-to-elm.png",
-    "primaryUrl": "http://mbylstra.github.io/html-to-elm",
-    "repositoryUrl": "https://github.com/mbylstra/html-to-elm",
-    "description": "Online tool for converting HTML to elm-html"
+    "repositoryUrl": "https://github.com/mbylstra/html-to-elm"
   },
   {
     "name": "elmchat",
