@@ -915,73 +915,73 @@
   },
   {
     "name": "Maze",
+    "description": "Test your mouse precision skills with this simple maze game.",
+    "primaryUrl": "https://daiw.de/games/maze/",
     "previewImageUrl": "data/images/maze.png",
-    "primaryUrl": "http://daiw.de/games/maze/",
-    "repositoryUrl": "https://github.com/Dobiasd/Maze",
-    "description": "Test your mouse precision skills with this simple maze game."
+    "repositoryUrl": "https://github.com/Dobiasd/Maze"
   },
   {
     "name": "graphomate slopegraphs",
+    "description": "graphomate slopegraphs for SAP Design Studio: customizable slopegraphs and bump charts for BI.",
+    "primaryUrl": "https://www.graphomate.com/en/",
     "previewImageUrl": "data/images/graphomate_slopegraphs.png",
-    "primaryUrl": "http://www.graphomate.com/en/",
-    "repositoryUrl": null,
-    "description": "graphomate slopegraphs for SAP Design Studio: customizable slopegraphs and bump charts for BI"
+    "repositoryUrl": null
   },
   {
     "name": "elm-street-404",
-    "previewImageUrl": "data/images/elm-street-404.jpg",
+    "description": "404 Elm Street — a game where you have to deliver all the fashion to all the customers.",
     "primaryUrl": "https://unsoundscapes.itch.io/404-elm-street",
-    "repositoryUrl": "https://github.com/w0rm/elm-street-404",
-    "description": "404 Elm Street — a game where you have to deliver all the fashion to all the customers."
+    "previewImageUrl": "data/images/elm-street-404.jpg",
+    "repositoryUrl": "https://github.com/w0rm/elm-street-404"
   },
   {
     "name": "elm-2048",
+    "description": "Simple implementation of 2048 game.",
+    "primaryUrl": "https://alexmost.github.io/2048/",
     "previewImageUrl": "data/images/elm-2048.png",
-    "primaryUrl": "http://alexmost.github.io/2048/",
-    "repositoryUrl": "https://github.com/alexmost/2048",
-    "description": "Simple implementation of 2048 game"
+    "repositoryUrl": "https://github.com/alexmost/2048"
   },
   {
     "name": "httpspy",
+    "description": "Watch HTTP requests as they happen. Built with Elm and Elixir/Phoenix.",
+    "primaryUrl": "http://httpspy.io/",
     "previewImageUrl": "data/images/httpspy.png",
-    "primaryUrl": "http://httpspy.io",
-    "repositoryUrl": "https://github.com/jamesmacaulay/http_spy",
-    "description": "Watch HTTP requests as they happen. Built with Elm and Elixir/Phoenix."
+    "repositoryUrl": "https://github.com/jamesmacaulay/http_spy"
   },
   {
     "name": "TodoMVC ElmFire",
+    "description": "TodoMVC implemented with ElmFire, a Firebase library for Elm. Features realtime collaborative editing!",
+    "primaryUrl": "https://thomasweiser.github.io/todomvc-elmfire",
     "previewImageUrl": "data/images/todomvc-elmfire.png",
-    "primaryUrl": "http://thomasweiser.github.io/todomvc-elmfire",
-    "repositoryUrl": "https://github.com/ThomasWeiser/todomvc-elmfire",
-    "description": "TodoMVC implemented with ElmFire, a Firebase library for Elm. Features realtime collaborative editing!"
+    "repositoryUrl": "https://github.com/ThomasWeiser/todomvc-elmfire"
   },
   {
     "name": "Lemur",
-    "previewImageUrl": "data/images/lemur.png",
+    "description": "A visual functional programming language which compiles to Python.",
     "primaryUrl": "https://github.com/vilterp/lemur",
-    "repositoryUrl": "https://github.com/vilterp/lemur",
-    "description": "visual functional programming language which compiles to Python"
+    "previewImageUrl": "data/images/lemur.png",
+    "repositoryUrl": "https://github.com/vilterp/lemur"
   },
   {
     "name": "Sketch-n-Sketch",
+    "description": "An SVG editor that combines programmatic and direct manipulation.",
+    "primaryUrl": "https://ravichugh.github.io/sketch-n-sketch/",
     "previewImageUrl": "data/images/sketch-n-sketch.png",
-    "primaryUrl": "http://ravichugh.github.io/sketch-n-sketch/",
-    "repositoryUrl": "https://github.com/ravichugh/sketch-n-sketch",
-    "description": "An SVG editor that combines programmatic and direct manipulation."
+    "repositoryUrl": "https://github.com/ravichugh/sketch-n-sketch"
   },
   {
     "name": "Minesweeper",
+    "description": "A simple Minesweeper game written in Elm.",
+    "primaryUrl": "https://sekibomazic.github.io/minesweeper/",
     "previewImageUrl": "data/images/elm-minesweeper.png",
-    "primaryUrl": "http://sekibomazic.github.io/minesweeper",
-    "repositoryUrl": "https://github.com/SekibOmazic/minesweeper",
-    "description": "A simple Minesweeper game written in Elm."
+    "repositoryUrl": "https://github.com/SekibOmazic/minesweeper"
   },
   {
     "name": "Elm Games",
-    "previewImageUrl": "data/images/elm-games.png",
+    "description": "A collection of mini games written in Elm, currently Minesweeper and Tic-Tac-Toe.",
     "primaryUrl": "https://localshred.github.io/elm-games",
-    "repositoryUrl": "https://github.com/localshred/elm-games",
-    "description": "A collection of mini games written in Elm, currently Minesweeper and Tic-Tac-Toe."
+    "previewImageUrl": "data/images/elm-games.png",
+    "repositoryUrl": "https://github.com/localshred/elm-games"
   },
   {
     "name": "Massive Decks",
