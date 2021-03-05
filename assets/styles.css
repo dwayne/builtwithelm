@@ -149,13 +149,13 @@ p {
     text-decoration: none;
 }
 
-.builtwithelm-SubmitProject {
+.builtwithelm-Links {
     border-bottom: 1px solid #999999;
     margin-bottom: 20px;
 }
 
-.builtwithelm-SubmitProjectHeader {
-    text-align: center;
+.builtwithelm-LastLink {
+    margin-bottom: 20px;
 }
 
 .builtwithelm-BuiltBy {
