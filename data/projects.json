@@ -1,5 +1,12 @@
 [
   {
+    "name": "Elm Algorithms",
+    "description": "An interactive website of algorithm visualizations for sorting, graphs and more.",
+    "primaryUrl": "https://allannozomu.github.io/Elm-Algorithms/",
+    "previewImageUrl": "data/images/elm-algorithms.png",
+    "repositoryUrl": "https://github.com/allannozomu/Elm-algorithms"
+  },
+  {
     "name": "Elm Designer",
     "description": "A visual code generator for Elm UI.",
     "primaryUrl": "https://github.com/passiomatic/elm-designer",
