@@ -1,5 +1,40 @@
 [
   {
+    "name": "Kite",
+    "description": "An interactive visualization tool for graph theory.",
+    "primaryUrl": "https://erkal.github.io/kite/",
+    "previewImageUrl": "data/images/kite.png",
+    "repositoryUrl": "https://github.com/erkal/kite"
+  },
+  {
+    "name": "Elm Minesweeper",
+    "description": "Minesweeper with a Windows 98 theme.",
+    "primaryUrl": "https://brandly.github.io/elm-minesweeper/",
+    "previewImageUrl": "data/images/brandly-elm-minesweeper.png",
+    "repositoryUrl": "https://github.com/brandly/elm-minesweeper"
+  },
+  {
+    "name": "Dr. Mario",
+    "description": "Dr. Mario in Elm. It is a classic falling-brick and block-tile matching puzzle game similar to Tetris but features the characters from the Mario franchise.",
+    "primaryUrl": "https://brandly.github.io/elm-dr-mario/",
+    "previewImageUrl": "data/images/elm-dr-mario.png",
+    "repositoryUrl": "https://github.com/brandly/elm-dr-mario"
+  },
+  {
+    "name": "Rocket League",
+    "description": "Drive a vehicle within a 3D arena to hit a ball and score goals.",
+    "primaryUrl": "https://brandly.itch.io/elm-rocket-league",
+    "previewImageUrl": "data/images/elm-rocket-league.png",
+    "repositoryUrl": "https://github.com/brandly/elm-rocket-league"
+  },
+  {
+    "name": "Slime Volleyball",
+    "description": "Try to beat the blue slime in a game of volleyball.",
+    "primaryUrl": "https://brandly.github.io/elm-slime-volleyball/",
+    "previewImageUrl": "data/images/elm-slime-volleyball.png",
+    "repositoryUrl": "https://github.com/brandly/elm-slime-volleyball"
+  },
+  {
     "name": "Elm Algorithms",
     "description": "An interactive website of algorithm visualizations for sorting, graphs and more.",
     "primaryUrl": "https://allannozomu.github.io/Elm-Algorithms/",
