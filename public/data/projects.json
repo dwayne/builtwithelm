@@ -1,4 +1,11 @@
 [
+  { 
+    "name": "CtPaint",
+    "description": "A pixel art image editor in Elm",
+    "primaryUrl": "https://ctpaint.org/app",
+    "previewImageUrl": "https://github.com/brandly/ctpaint.png",
+    "repositoryUrl": "https://github.com/Chadtech/CtPaint-App"
+  },
   {
     "name": "Kite",
     "description": "An interactive visualization tool for graph theory.",
