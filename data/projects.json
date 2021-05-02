@@ -1,5 +1,12 @@
 [
   {
+    "name": "Tetris",
+    "description": "Yet another Elm Tetris.",
+    "primaryUrl": "https://yonigibbs.github.io/yaet/",
+    "previewImageUrl": "data/images/tetris.png",
+    "repositoryUrl": "https://github.com/yonigibbs/yaet"
+  },
+  {
     "name": "Kite",
     "description": "An interactive visualization tool for graph theory.",
     "primaryUrl": "https://erkal.github.io/kite/",
