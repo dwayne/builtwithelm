@@ -1,5 +1,12 @@
 [
   {
+    "name": "CtPaint",
+    "description": "A pixel art image editor in Elm.",
+    "primaryUrl": "https://ctpaint.org/app",
+    "previewImageUrl": "data/images/ctpaint.png",
+    "repositoryUrl": "https://github.com/Chadtech/CtPaint-App"
+  },
+  {
     "name": "Tetris",
     "description": "Yet another Elm Tetris.",
     "primaryUrl": "https://yonigibbs.github.io/yaet/",
