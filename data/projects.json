@@ -1,5 +1,12 @@
 [
   {
+    "name": "Knighty Knight",
+    "description": "A Chess Knight movement training app built with Elm and Elm UI.",
+    "primaryUrl": "https://knightyknight.netlify.app/",
+    "previewImageUrl": "data/images/knighty-knight.png",
+    "repositoryUrl": "https://github.com/AliNisarAhmed/knighty-knight"
+  },
+  {
     "name": "CtPaint",
     "description": "A pixel art image editor in Elm.",
     "primaryUrl": "https://ctpaint.org/app",
@@ -601,7 +608,8 @@
     "previewImageUrl": "data/images/elm-hekoish-watch.png",
     "repositoryUrl": "https://github.com/astynax/elm-hekoish-watch"
   },
-  { "name": "Elm Christmas Tree",
+  {
+    "name": "Elm Christmas Tree",
     "description": "A Christmas/New Year tree with randomized ornaments and illumination.",
     "primaryUrl": "https://astynax.github.io/elm-xmas-tree",
     "previewImageUrl": "data/images/elm-xmas-tree.png",
@@ -614,13 +622,15 @@
     "previewImageUrl": "data/images/elm-online-md-editor.png",
     "repositoryUrl": "https://github.com/3tty0n/elm-online-markdown-editor"
   },
-  { "name": "MovieInfo",
+  {
+    "name": "MovieInfo",
     "description": "Information and ratings for movies, TV series and games.",
     "primaryUrl": "https://ciavash.gitlab.io/MovieInfo",
     "previewImageUrl": "data/images/MovieInfo.jpg",
     "repositoryUrl": "https://gitlab.com/CIAvash/MovieInfo"
   },
-  { "name": "Orbiter 13",
+  {
+    "name": "Orbiter 13",
     "description": "Control your seven thrusters to travel from orbit to orbit collecting resources.",
     "primaryUrl": "https://www.chadtech.us/orbiter-13",
     "previewImageUrl": "data/images/orbiter-13.png",
@@ -655,7 +665,7 @@
     "repositoryUrl": "https://github.com/jvoigtlaender/circuits"
   },
   {
-    "name":"Tabata Timer",
+    "name": "Tabata Timer",
     "description": "A Tabata Timer in Elm, playing sounds between stages.",
     "primaryUrl": "https://jackysee.github.io/tabata-timer",
     "previewImageUrl": "data/images/tabata-timer.png",
