@@ -1,5 +1,19 @@
 [
   {
+    "name": "Real Folk",
+    "description": "A forward-thinking software consultancy that uses Elm, Haskell and Nix.",
+    "primaryUrl": "https://realfolk.com",
+    "previewImageUrl": "data/images/real-folk.png",
+    "repositoryUrl": null
+  },
+  {
+    "name": "Dhruv Dang",
+    "description": "Dhruv's personal website.",
+    "primaryUrl": "https://dhruv.io",
+    "previewImageUrl": "data/images/dhruv-dang.png",
+    "repositoryUrl": null
+  },
+  {
     "name": "Knighty Knight",
     "description": "A Chess Knight movement training app built with Elm and Elm UI.",
     "primaryUrl": "https://knightyknight.netlify.app/",
