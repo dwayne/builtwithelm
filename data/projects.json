@@ -1,5 +1,12 @@
 [
   {
+    "name": "Pareto Security Teams Dashboard",
+    "description": "A Web Dashboard for monitoring compliance of devices with the Pareto Security app.",
+    "primaryUrl": "https://dash.paretosecurity.com",
+    "previewImageUrl": "data/images/ParetoSecurity.png",
+    "repositoryUrl": null
+  },
+  {
     "name": "Real Folk",
     "description": "A forward-thinking software consultancy that uses Elm, Haskell and Nix.",
     "primaryUrl": "https://realfolk.com",
