@@ -1,5 +1,12 @@
 [
   {
+    "name": "Speak & Spell",
+    "description": " Speak & Spell in Elm. Just for fun :)",
+    "primaryUrl": "https://speak-and-spell.vercel.app/",
+    "previewImageUrl": "data/images/speak-and-spell.png",
+    "repositoryUrl": "https://github.com/gacallea/elm_speakandspell"
+  },
+  {
     "name": "Pareto Security Teams Dashboard",
     "description": "A Web Dashboard for monitoring compliance of devices with the Pareto Security app.",
     "primaryUrl": "https://dash.paretosecurity.com",
