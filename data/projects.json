@@ -1,5 +1,12 @@
 [
   {
+    "name": "Azimutt",
+    "description": "An Entity Relationship Diagram (ERD) visualization tool. It has various filters and inputs to help you understand your database's schema.",
+    "primaryUrl": "https://azimutt.app",
+    "previewImageUrl": "data/images/azimutt.png",
+    "repositoryUrl": "https://github.com/azimuttapp/azimutt"
+  },
+  {
     "name": "Speak & Spell",
     "description": " Speak & Spell in Elm. Just for fun :)",
     "primaryUrl": "https://speak-and-spell.vercel.app/",
