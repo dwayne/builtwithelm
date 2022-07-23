@@ -1,5 +1,12 @@
 [
   {
+    "name": "Qoda",
+    "description": "Qoda is an orderbook-style marketplace exchange for loans, built on Moonbeam. It enables collateralized lending and borrowing of crypto assets at fixed interest rates for fixed periods.",
+    "primaryUrl": "https://moonbase.qoda.fi",
+    "previewImageUrl": "data/images/qoda.png",
+    "repositoryUrl": null
+  },
+  {
     "name": "Azimutt",
     "description": "An Entity Relationship Diagram (ERD) visualization tool. It has various filters and inputs to help you understand your database's schema.",
     "primaryUrl": "https://azimutt.app",
