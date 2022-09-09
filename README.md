@@ -8,10 +8,10 @@ source of examples for all Elm developers.
 ## Submissions
 
 Simply submit a PR with your info added to the beginning of the array in
-`data/projects.json` and add a screenshot in `data/images`. Ensure that the
-screenshot is **1000px x 800px** and is **optimized** for the web. If your
-project is open source, please fill in your repository URL. Otherwise, just
-leave it as `null`.
+`public/data/projects.json` and add a screenshot in `public/data/images`. 
+Ensure that the screenshot is **1000px x 800px** and is **optimized** for the
+web. If your project is open source, please fill in your repository URL. 
+Otherwise, just leave it as `null`.
 
 ## History
 
