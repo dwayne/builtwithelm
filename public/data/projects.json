@@ -1,5 +1,12 @@
 [
   {
+    "name": "Who Said It Best?",
+    "description": "Who Said It Best? is a simple quiz game to differentiate between a contemporary billionaire from the greatest tyrant of the last century."
+    "primaryUrl": "https://muskorhitler.com"
+    "previewImageUrl": "data/images/who-said-it-best.png",
+    "repositoryUrl": "https://gitlab.com/pangyuehung/who-said-it-best"
+  }
+  {
     "name": "Qoda",
     "description": "Qoda is an orderbook-style marketplace exchange for loans, built on Moonbeam. It enables collateralized lending and borrowing of crypto assets at fixed interest rates for fixed periods.",
     "primaryUrl": "https://moonbase.qoda.fi",
