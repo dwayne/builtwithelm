@@ -1,5 +1,12 @@
 [
   {
+    "name": "2048",
+    "description": "A complete clone of the classic game. It has smooth animations. It automatically saves your progress to localStorage. And, you can use WASD, HJKL, arrow keys, or swipe gestures (assuming touch support) to move the tiles.",
+    "primaryUrl": "https://dwayne.github.io/elm-2048/",
+    "previewImageUrl": "data/images/2048.png",
+    "repositoryUrl": "https://github.com/dwayne/elm-2048"
+  },
+  {
     "name": "Qoda",
     "description": "Qoda is an orderbook-style marketplace exchange for loans, built on Moonbeam. It enables collateralized lending and borrowing of crypto assets at fixed interest rates for fixed periods.",
     "primaryUrl": "https://moonbase.qoda.fi",
