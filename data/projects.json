@@ -1,5 +1,12 @@
 [
   {
+    "name": "Data Stewardship Wizard",
+    "description": "Create, plan, collaborate, and bring your data management plans to life with a tool trusted by thousands of people worldwide — from data management pioneers, to international research institutes.",
+    "primaryUrl": "https://ds-wizard.org",
+    "previewImageUrl": "data/images/ds-wizard.png",
+    "repositoryUrl": "https://github.com/ds-wizard/engine-frontend"
+  },
+  {
     "name": "2048",
     "description": "A complete clone of the classic game. It has smooth animations. It automatically saves your progress to localStorage. And, you can use WASD, HJKL, arrow keys, or swipe gestures (assuming touch support) to move the tiles.",
     "primaryUrl": "https://dwayne.github.io/elm-2048/",
