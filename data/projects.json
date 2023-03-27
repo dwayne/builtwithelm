@@ -1,5 +1,12 @@
 [
   {
+    "name": "EditShare Releases",
+    "description": "A micro single-page application serving as a changelog of software releases from EditShare.",
+    "primaryUrl": "https://updates.editshare.com/releases/latest",
+    "previewImageUrl": "data/images/editshare-releases.png",
+    "repositoryUrl": null
+  },
+  {
     "name": "Liikennematto",
     "description": "A tiny town building game for children and grown-ups alike. You only build the roads! Lots, buildings and their residents pop up after.",
     "primaryUrl": "https://yourmagicisworking.itch.io/liikennematto",
