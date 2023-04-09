@@ -1,5 +1,12 @@
 [
   {
+    "name": "Airsequel",
+    "description": "A SQLite database hosting platform with a complete GraphQL API, a spreadsheet UI, an SQL workbench, and a dashboard builder.",
+    "primaryUrl": "https://www.airsequel.com",
+    "previewImageUrl": "data/images/airsequel.png",
+    "repositoryUrl": null
+  },
+  {
     "name": "EditShare Releases",
     "description": "A micro single-page application serving as a changelog of software releases from EditShare.",
     "primaryUrl": "https://updates.editshare.com/releases/latest",
