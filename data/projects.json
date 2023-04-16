@@ -1,5 +1,12 @@
 [
   {
+    "name": "L-System Studio",
+    "description": "An environment for creating and exploring L-Systems.",
+    "primaryUrl": "https://raw.githack.com/hunorg/L-System-Studio/main/index.html",
+    "previewImageUrl": "data/images/l-system-studio.png",
+    "repositoryUrl": "https://github.com/hunorg/L-System-Studio"
+  },
+  {
     "name": "Airsequel",
     "description": "A SQLite database hosting platform with a complete GraphQL API, a spreadsheet UI, an SQL workbench, and a dashboard builder.",
     "primaryUrl": "https://www.airsequel.com",
