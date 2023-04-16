@@ -2,8 +2,8 @@
   {
     "name": "L-System Studio", 
     "description": "An environment for creating and exploring L-Systems.",
-    "primaryUrl": "https://rawcdn.githack.com/hunorg/L-System-Studio/cd93a2553df57f2f6ec17cbb07b6b0d975b13afa/index.html",
-    "previewImageUrl": "data/images/LSysEx.png",
+    "primaryUrl": "https://raw.githack.com/hunorg/L-System-Studio/main/index.html",
+    "previewImageUrl": "data/images/lsys.png",
     "repositoryUrl": "https://github.com/hunorg/L-System-Studio"
   },
   {
