@@ -1,5 +1,12 @@
 [
   {
+    "name": "Solvenius",
+    "description": "A logic game where you have to deduce as many sequences as you can, before the time runs out.",
+    "primaryUrl": "https://gianlucacosta.info/solvenius/",
+    "previewImageUrl": "data/images/solvenius.png",
+    "repositoryUrl": "https://github.com/giancosta86/solvenius"
+  },
+  {
     "name": "L-System Studio",
     "description": "An environment for creating and exploring L-Systems.",
     "primaryUrl": "https://raw.githack.com/hunorg/L-System-Studio/main/index.html",
