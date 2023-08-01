@@ -1,5 +1,12 @@
 [
   {
+    "name": "7GUIs",
+    "description": "7GUIs is a GUI programming benchmark where implementations are compared in terms of their notation. It defines seven tasks that represent typical challenges in GUI programming.",
+    "primaryUrl": "https://dwayne.github.io/elm-7guis/",
+    "previewImageUrl": "data/images/7guis.png",
+    "repositoryUrl": "https://github.com/dwayne/elm-7guis"
+  },
+  {
     "name": "Solvenius",
     "description": "A logic game where you have to deduce as many sequences as you can, before the time runs out.",
     "primaryUrl": "https://gianlucacosta.info/solvenius/",
