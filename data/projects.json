@@ -1,5 +1,12 @@
 [
   {
+    "name": "P2P Wiki Game",
+    "description": "A peer-to-peer version of the Wiki Game to play with friends. A real-time visualization of the player's paths is provided for each game. Additionally, an AI pathfinder will play alongside you. It is built with Elm and PeerJS.",
+    "primaryUrl": "https://nicolaswinsten.github.io/racer/index.html",
+    "previewImageUrl": "data/images/p2pwikigame.png",
+    "repositoryUrl": "https://github.com/NicolasWinsten/racer"
+  },
+  {
     "name": "7GUIs",
     "description": "7GUIs is a GUI programming benchmark where implementations are compared in terms of their notation. It defines seven tasks that represent typical challenges in GUI programming.",
     "primaryUrl": "https://dwayne.github.io/elm-7guis/",
