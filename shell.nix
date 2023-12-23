@@ -15,6 +15,6 @@ pkgs.mkShell {
     export build="$project/.build"
     export PATH="$project/bin:$PATH"
 
-    npm install --loglevel error >/dev/null
+    npm ci --loglevel error >/dev/null
     '';
 }
