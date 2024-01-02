@@ -1,5 +1,19 @@
 [
   {
+    "name": "Wedding Website",
+    "description": "A simple static micro-website adaptable for weddings.",
+    "primaryUrl": "https://heyakyra.gitlab.io/wedding-website-elm",
+    "previewImageUrl": "data/images/wedding-website.png",
+    "repositoryUrl": "https://gitlab.com/heyakyra/wedding-website-elm"
+  },
+  {
+    "name": "Elbum",
+    "description": "A web photo album generator in Elm and Haskell.",
+    "primaryUrl": "https://jerith666.github.io/elbum-demo",
+    "previewImageUrl": "data/images/elbum.png",
+    "repositoryUrl": "https://github.com/jerith666/elbum"
+  },
+  {
     "name": "P2P Wiki Game",
     "description": "A peer-to-peer version of the Wiki Game to play with friends. A real-time visualization of the player's paths is provided for each game. Additionally, an AI pathfinder will play alongside you. It is built with Elm and PeerJS.",
     "primaryUrl": "https://nicolaswinsten.github.io/racer/index.html",
