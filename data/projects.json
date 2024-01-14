@@ -1,5 +1,12 @@
 [
   {
+    "name": "Filler",
+    "description": "A version of the classic 7 Colors game with a minimax based AI opponent.",
+    "primaryUrl": "https://doc-han.github.io/playfiller.com",
+    "previewImageUrl": "data/images/playfiller.png",
+    "repositoryUrl": "https://github.com/doc-han/playfiller.com"
+  },
+  {
     "name": "Wedding Website",
     "description": "A simple static micro-website adaptable for weddings.",
     "primaryUrl": "https://heyakyra.gitlab.io/wedding-website-elm",
