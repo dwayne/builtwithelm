@@ -1,5 +1,12 @@
 [
   {
+    "name": "Umbra",
+    "description": "Create multiple box shadows and export them as CSS.",
+    "primaryUrl": "https://carlotm.github.io/umbra",
+    "previewImageUrl": "data/images/umbra.png",
+    "repositoryUrl": "https://github.com/carlotm/umbra"
+  },
+  {
     "name": "Filler",
     "description": "A version of the classic 7 Colors game with a minimax based AI opponent.",
     "primaryUrl": "https://doc-han.github.io/playfiller.com",
