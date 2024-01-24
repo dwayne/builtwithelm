@@ -1,5 +1,12 @@
 [
   {
+    "name": "Compiling",
+    "description": "A puzzle game to play when compiling.",
+    "primaryUrl": "https://carlotm.github.io/compiling",
+    "previewImageUrl": "data/images/compiling.png",
+    "repositoryUrl": "https://github.com/carlotm/compiling"
+  },
+  {
     "name": "Umbra",
     "description": "Create multiple box shadows and export them as CSS.",
     "primaryUrl": "https://carlotm.github.io/umbra",
