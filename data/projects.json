@@ -1,5 +1,12 @@
 [
   {
+    "name": "Elm Conduit",
+    "description": "An Elm SPA for RealWorld's Medium.com clone.",
+    "primaryUrl": "https://elm-conduit.netlify.app",
+    "previewImageUrl": "data/images/elm-conduit.png",
+    "repositoryUrl": "https://github.com/dwayne/elm-conduit"
+  },
+  {
     "name": "Compiling",
     "description": "A puzzle game to play when compiling.",
     "primaryUrl": "https://carlotm.github.io/compiling",
