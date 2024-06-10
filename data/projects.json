@@ -1,5 +1,12 @@
 [
   {
+    "name": "Neo Train",
+    "description": "Neo Train is an online touch typing trainer for the neo layout. It is built with Lamdera and supports all common layout variants of the neo family with corresponding exercises. The trainer offers randomly generated lectures as well as handwritten exercises.",
+    "primaryUrl": "https://neo-train.lamdera.app/",
+    "previewImageUrl": "data/images/neo-train.png",
+    "repositoryUrl": "https://github.com/janekx21/NeoTrain"
+  },
+  {
     "name": "Elm Conduit",
     "description": "An Elm SPA for RealWorld's Medium.com clone.",
     "primaryUrl": "https://elm-conduit.netlify.app",
