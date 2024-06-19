@@ -1,4 +1,10 @@
 [
+  { "name": "Elm Todos",
+    "description": "An Elm implementation of the TodoMVC's to-do list web application.",
+    "primaryUrl": "https://elm-todos.netlify.app/",
+    "previewImageUrl": "data/images/elm-todos.png",
+    "repositoryUrl": "https://github.com/dwayne/elm-todos"
+  },
   {
     "name": "Neo Train",
     "description": "Neo Train is an online touch typing trainer for the neo layout. It is built with Lamdera and supports all common layout variants of the neo family with corresponding exercises. The trainer offers randomly generated lectures as well as handwritten exercises.",
