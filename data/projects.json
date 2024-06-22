@@ -1,7 +1,13 @@
 [
-  { "name": "Elm Todos",
+  { "name": "Super Rentals",
+    "description": "The Ember Tutorial's \"Super Rentals\" web application written in Elm.",
+    "primaryUrl": "https://elm-super-rentals.netlify.app",
+    "previewImageUrl": "data/images/elm-super-rentals.png",
+    "repositoryUrl": "https://github.com/dwayne/elm-super-rentals"
+  },
+  { "name": "Todos",
     "description": "An Elm implementation of the TodoMVC's to-do list web application.",
-    "primaryUrl": "https://elm-todos.netlify.app/",
+    "primaryUrl": "https://elm-todos.netlify.app",
     "previewImageUrl": "data/images/elm-todos.png",
     "repositoryUrl": "https://github.com/dwayne/elm-todos"
   },
@@ -13,7 +19,7 @@
     "repositoryUrl": "https://github.com/janekx21/NeoTrain"
   },
   {
-    "name": "Elm Conduit",
+    "name": "Conduit",
     "description": "An Elm SPA for RealWorld's Medium.com clone.",
     "primaryUrl": "https://elm-conduit.netlify.app",
     "previewImageUrl": "data/images/elm-conduit.png",
