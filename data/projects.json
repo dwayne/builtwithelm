@@ -1,4 +1,10 @@
 [
+  { "name": "Wordle",
+    "description": "A Wordle clone. Wordle is a daily word guessing game created by Josh Wardle that gained popularity in December 2021.",
+    "primaryUrl": "https://dwayne.github.io/elm-wordle",
+    "previewImageUrl": "data/images/elm-wordle.png",
+    "repositoryUrl": "https://github.com/dwayne/elm-wordle"
+  },
   { "name": "Super Rentals",
     "description": "The Ember Tutorial's \"Super Rentals\" web application written in Elm.",
     "primaryUrl": "https://elm-super-rentals.netlify.app",
