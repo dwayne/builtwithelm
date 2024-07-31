@@ -1,4 +1,11 @@
 [
+  {
+    "name": "Elm Playground",
+    "description": "A SPA exploring various Elm concepts (routing, ports, SVG, canvas, and more).",
+    "primaryUrl": "https://ccamel.github.io/playground-elm",
+    "previewImageUrl": "data/images/elm-playground.jpg",
+    "repositoryUrl": "https://github.com/ccamel/playground-elm"
+  },
   { "name": "Wordle",
     "description": "A Wordle clone. Wordle is a daily word guessing game created by Josh Wardle that gained popularity in December 2021.",
     "primaryUrl": "https://dwayne.github.io/elm-wordle",
