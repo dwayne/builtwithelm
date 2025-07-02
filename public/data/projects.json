@@ -1,5 +1,12 @@
 [
   {
+    "name": "Simple IoT",
+    "description": "Simple IoT enables you to add remote sensor data, telemetry, configuration, and device management to your project or product.",
+    "primaryUrl": "https://docs.simpleiot.org/",
+    "previewImageUrl": "data/images/siot.png",
+    "repositoryUrl": "https://github.com/simpleiot/simpleiot"
+  },
+  {
     "name": "Markdown to Webflow RTF",
     "description": "Transform your beloved Markdown into something Webflow can eat!",
     "primaryUrl": "https://markdown.enso.no",
