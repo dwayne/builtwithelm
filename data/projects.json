@@ -1,5 +1,12 @@
 [
   {
+    "name": "Elm Editor",
+    "description": "A web-based IDE for Elm applications.",
+    "primaryUrl": "https://elm-editor.com",
+    "previewImageUrl": "data/images/elm-editor.png",
+    "repositoryUrl": "https://github.com/pine-vm/pine/tree/main/implement/example-apps/elm-editor"
+  },
+  {
     "name": "Simple IoT",
     "description": "Simple IoT enables you to add remote sensor data, telemetry, configuration, and device management to your project or product.",
     "primaryUrl": "https://docs.simpleiot.org/",
