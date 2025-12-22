@@ -1,5 +1,12 @@
 [
   {
+    "name": "Seat Savvy",
+    "description": "A classroom seating chart tool.",
+    "primaryUrl": "https://www.seatsavvy.com",
+    "previewImageUrl": "data/images/seatsavvy.png",
+    "repositoryUrl": null
+  },
+  {
     "name": "Elm Editor",
     "description": "A web-based IDE for Elm applications.",
     "primaryUrl": "https://elm-editor.com",
