@@ -1,5 +1,12 @@
 [
   {
+    "name": "LunarTasks",
+    "description": "A task management system for recurring, non-urgent tasks (that eventually become urgent).",
+    "primaryUrl": "https://lunartasks.com",
+    "previewImageUrl": "data/images/lunartasks.png",
+    "repositoryUrl": "https://github.com/drewkit/lunar-tasks"
+  },
+  {
     "name": "Seat Savvy",
     "description": "A classroom seating chart tool.",
     "primaryUrl": "https://www.seatsavvy.com",
