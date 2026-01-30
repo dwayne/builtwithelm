@@ -1,5 +1,12 @@
 [
   {
+    "name": "RepoDash",
+    "description": "Monitor commits across several GitHub repositories.",
+    "primaryUrl": "https://repodash.com",
+    "previewImageUrl": "data/images/repodash.png",
+    "repositoryUrl": "https://github.com/ad-si/RepoDash"
+  },
+  {
     "name": "LunarTasks",
     "description": "A task management system for recurring, non-urgent tasks (that eventually become urgent).",
     "primaryUrl": "https://lunartasks.com",
