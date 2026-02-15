@@ -4,6 +4,21 @@
       let
         pkgs = nixpkgs.legacyPackages.${system};
         buildCss = pkgs.callPackage ./nix/build-css.nix {};
+        buildWorkshop = pkgs.callPackage ./nix/build-workshop.nix {};
+
+        css = buildCss {
+          name = "builtwithelm-css";
+        };
+
+        cssOptimized = buildCss {
+          name = "builtwithelm-css-optimized";
+          optimize = true;
+        };
+
+        workshop = buildWorkshop {
+          inherit css;
+          name = "builtwithelm-workshop";
+        };
       in
       {
         devShells.default = pkgs.mkShell {
@@ -19,14 +34,7 @@
         };
 
         packages = {
-          css = buildCss {
-            name = "builtwithelm-css";
-          };
-
-          cssOptimized = buildCss {
-            name = "builtwithelm-css-optimized";
-            optimize = true;
-          };
+          inherit css cssOptimized workshop;
         };
       }
     );
