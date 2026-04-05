@@ -1,5 +1,12 @@
 [
   {
+    "name": "Kana Party",
+    "description": "A \"Match 3\" game for learning Japanese.",
+    "primaryUrl": "https://www.kanaparty.com",
+    "previewImageUrl": "data/images/kanaparty.png",
+    "repositoryUrl": null
+  },
+  {
     "name": "RepoDash",
     "description": "Monitor commits across several GitHub repositories.",
     "primaryUrl": "https://repodash.com",
