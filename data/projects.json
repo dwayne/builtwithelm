@@ -1,5 +1,12 @@
 [
   {
+    "name": "corpus",
+    "description": "A self-hosted ListenBrainz and Last.fm proxy.",
+    "primaryUrl": "https://scrobbler.mtmn.name",
+    "previewImageUrl": "data/images/corpus.png",
+    "repositoryUrl": "https://github.com/mtmn/corpus"
+  },
+  {
     "name": "Kana Party",
     "description": "A \"Match 3\" game for learning Japanese.",
     "primaryUrl": "https://www.kanaparty.com",
