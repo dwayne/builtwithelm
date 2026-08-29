@@ -1,5 +1,12 @@
 [
   {
+    "name": "Partage",
+    "description": "An encrypted, local-first bill splitting app for friends, family and roommates.",
+    "primaryUrl": "https://onpartage.eu",
+    "previewImageUrl": "data/images/partage.png",
+    "repositoryUrl": "https://github.com/mpizenberg/partage-elm"
+  },
+  {
     "name": "corpus",
     "description": "A self-hosted ListenBrainz and Last.fm proxy.",
     "primaryUrl": "https://scrobbler.mtmn.name",
