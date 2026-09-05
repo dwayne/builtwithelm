@@ -1,5 +1,12 @@
 [
   {
+    "name": "Feedback.one",
+    "description": "Free, unlimited user feedback with just one line of code.",
+    "primaryUrl": "https://feedback.one",
+    "previewImageUrl": "data/images/feedback-one.png",
+    "repositoryUrl": "https://github.com/feedbackone"
+  },
+  {
     "name": "Partage",
     "description": "An encrypted, local-first bill splitting app for friends, family and roommates.",
     "primaryUrl": "https://onpartage.eu",
