@@ -1,9 +1,0 @@
-#!/usr/bin/env bash
-
-#
-# Usage: serve-production
-#
-
-set -euo pipefail
-
-serve 9000 prototype

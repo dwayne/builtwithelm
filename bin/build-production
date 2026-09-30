@@ -1,9 +1,0 @@
-#!/usr/bin/env bash
-
-#
-# Usage: build-production
-#
-
-set -euo pipefail
-
-optimize_html=1 optimize_css=1 optimize_js=2 compress=1 build production
