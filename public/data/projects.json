@@ -170,9 +170,9 @@
   {
     "name": "L-System Studio",
     "description": "An environment for creating and exploring L-Systems.",
-    "primaryUrl": "https://raw.githack.com/hunorg/L-System-Studio/main/index.html",
-    "previewImageUrl": "data/images/l-system-studio.png",
-    "repositoryUrl": "https://github.com/hunorg/L-System-Studio"
+    "primaryUrl": "https://dwayne.github.io/elm-l-system-studio/",
+    "previewImageUrl": "data/images/elm-l-system-studio.png",
+    "repositoryUrl": "https://github.com/dwayne/elm-l-system-studio"
   },
   {
     "name": "Airsequel",
