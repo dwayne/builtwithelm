@@ -126,20 +126,6 @@
     "repositoryUrl": "https://github.com/dwayne/elm-conduit"
   },
   {
-    "name": "Compiling",
-    "description": "A puzzle game to play when compiling.",
-    "primaryUrl": "https://carlotm.github.io/compiling",
-    "previewImageUrl": "data/images/compiling.png",
-    "repositoryUrl": "https://github.com/carlotm/compiling"
-  },
-  {
-    "name": "Umbra",
-    "description": "Create multiple box shadows and export them as CSS.",
-    "primaryUrl": "https://carlotm.github.io/umbra",
-    "previewImageUrl": "data/images/umbra.png",
-    "repositoryUrl": "https://github.com/carlotm/umbra"
-  },
-  {
     "name": "Filler",
     "description": "A version of the classic 7 Colors game with a minimax based AI opponent.",
     "primaryUrl": "https://doc-han.github.io/playfiller.com",
@@ -184,9 +170,9 @@
   {
     "name": "L-System Studio",
     "description": "An environment for creating and exploring L-Systems.",
-    "primaryUrl": "https://raw.githack.com/hunorg/L-System-Studio/main/index.html",
-    "previewImageUrl": "data/images/l-system-studio.png",
-    "repositoryUrl": "https://github.com/hunorg/L-System-Studio"
+    "primaryUrl": "https://dwayne.github.io/elm-l-system-studio/",
+    "previewImageUrl": "data/images/elm-l-system-studio.png",
+    "repositoryUrl": "https://github.com/dwayne/elm-l-system-studio"
   },
   {
     "name": "Airsequel",
@@ -224,46 +210,11 @@
     "repositoryUrl": "https://github.com/dwayne/elm-2048"
   },
   {
-    "name": "Qoda",
-    "description": "Qoda is an orderbook-style marketplace exchange for loans, built on Moonbeam. It enables collateralized lending and borrowing of crypto assets at fixed interest rates for fixed periods.",
-    "primaryUrl": "https://moonbase.qoda.fi",
-    "previewImageUrl": "data/images/qoda.png",
-    "repositoryUrl": null
-  },
-  {
     "name": "Azimutt",
     "description": "An Entity Relationship Diagram (ERD) visualization tool. It has various filters and inputs to help you understand your database's schema.",
     "primaryUrl": "https://azimutt.app",
     "previewImageUrl": "data/images/azimutt.png",
     "repositoryUrl": "https://github.com/azimuttapp/azimutt"
-  },
-  {
-    "name": "Speak & Spell",
-    "description": " Speak & Spell in Elm. Just for fun :)",
-    "primaryUrl": "https://speak-and-spell.vercel.app/",
-    "previewImageUrl": "data/images/speak-and-spell.png",
-    "repositoryUrl": "https://github.com/gacallea/elm_speakandspell"
-  },
-  {
-    "name": "Pareto Security Teams Dashboard",
-    "description": "A Web Dashboard for monitoring compliance of devices with the Pareto Security app.",
-    "primaryUrl": "https://dash.paretosecurity.com",
-    "previewImageUrl": "data/images/ParetoSecurity.png",
-    "repositoryUrl": null
-  },
-  {
-    "name": "Real Folk",
-    "description": "A forward-thinking software consultancy that uses Elm, Haskell and Nix.",
-    "primaryUrl": "https://realfolk.com",
-    "previewImageUrl": "data/images/real-folk.png",
-    "repositoryUrl": null
-  },
-  {
-    "name": "Dhruv Dang",
-    "description": "Dhruv's personal website.",
-    "primaryUrl": "https://dhruv.io",
-    "previewImageUrl": "data/images/dhruv-dang.png",
-    "repositoryUrl": null
   },
   {
     "name": "Knighty Knight",
